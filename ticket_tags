@@ -4,7 +4,7 @@
         表单上传
         断点续传
         跨域
-文件访问,下载
+文件访问下载
         文件外链
         批量下载
         下载慢
@@ -47,9 +47,10 @@ portal 问题
         如何解冻
 
 持久化处理
-第三方插件，sdk
+第三方插件
         WordPress
         Discuz
+	Discourse插件
 
 sdk
         demo 
